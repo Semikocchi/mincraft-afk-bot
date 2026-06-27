@@ -2,6 +2,5 @@
   "serverHost": "Flyzonetr.aternos.me",
   "serverPort": 45501,
   "botUsername": "FlyzoneBOT",
-  "botChunk": 1,
-  "version": "26.1.2"
+  "botChunk": 1
 }
